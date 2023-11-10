@@ -12,4 +12,7 @@
 #include <fcntl.h>
 #include <errno.h>
 
+/* read/write command */
+#define MAX_COMMAND_LENGTH 1024
+
 #endif
