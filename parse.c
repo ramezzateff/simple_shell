@@ -25,7 +25,7 @@ int parse_command(char *command, char *argv[])
 
 /**
  * search_command - Searches for a command in the directories
- specified by the PATH environment variable.
+ *specified by the PATH environment variable.
  * @command: The command to search for.
  * @full_path: The buffer to store the full path of the command.
  *
